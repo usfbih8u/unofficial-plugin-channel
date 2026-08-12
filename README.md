@@ -73,6 +73,7 @@ Name (Maintained?) | Description | &#10240;&#10240;&#10240;OS&#10240;&#10240;&#1
 | [delve] (Yes) | Integrates golang delve debugger. | ![Linux] ![Windows] ![macOS] | [delve_], `HOME`environment variable |
 | [diff_preview] (Yes) | Display a preview of Git diffs in a tooltip. | ![Linux] ![macOS] | [git] |
 | [emacs_select] (Yes) | Emacs-style selection for Micro. | ![Linux] ![Windows] ![macOS] | |
+| [ember] (Yes) | Four warm truecolor colorschemes: two transparent darks (warm and cool neutrals), one opaque dark, one light. | ![Linux] ![Windows] ![macOS] | Truecolor terminal |
 | [filemanager2] (Yes) | Plugin that allows for easy navigation of a file tree. | ![Linux] ![Windows] ![macOS] | |
 | [findinfolder] <br> (No, upstream gone) | Folder search support. | ![Linux] ![macOS] |  [ripgrep], [fzf], [bat] |
 | [fzfinder] (Yes) | Integrate fzf to select and search for your project files. | ![Linux] ![Windows] ![macOS] | [fzf], (Optional) [bat] |
@@ -103,6 +104,7 @@ Name (Maintained?) | Description | &#10240;&#10240;&#10240;OS&#10240;&#10240;&#1
 | [preview] (Yes) | A very simple plugin to preview markdown in a second editor pane using pandoc. | ![Linux] ![Windows] ![macOS] | [pandoc] |
 | [repfiles] (Yes) | A filemanager for your git-repository. | ![Linux] ![macOS] | |
 | [runit] (Yes) | F5 to save and run, F12 to 'make', F9 to 'make' in background. Go, Python, Lua and executable file (#!) supported. Can 'make' whole project even from subdir. | ![Linux] ![macOS] | Different tools depending on file type, but [firefox-esr] for html |
+| [scrollz] (Yes) | Scroll the cursor's line to the top or bottom of the view, and half-page jumps that bring the cursor with you, centered. | ![Linux] ![Windows] ![macOS] | |
 | [selto] (Yes) | Simple plugin allowing to quickly select lines. | ![Linux] ![Windows] ![macOS] | |
 | [splitterm] (Yes) | Run a file or a selection of an inerpreted language within a new terminal window. | ![Linux] ![Windows] ![macOS] | |
 | [sunny-day-theme] <br> (No, repository was archived) | Port of the Emacs theme by Martin Haesler. | ![Linux] ![Windows] ![macOS] | |
@@ -144,6 +146,7 @@ Name (Maintained?) | Description | &#10240;&#10240;&#10240;OS&#10240;&#10240;&#1
 [delve]: https://github.com/serge-v/micro-delve
 [diff_preview]: https://github.com/usfbih8u/micro-diff-preview
 [emacs_select]: https://github.com/kesslern/micro-emacs-select
+[ember]: https://github.com/vish9812/micro-ember
 [filemanager2]: https://github.com/Neko-Box-Coder/filemanager2
 [findinfolder]: https://codeberg.org/micro-plugins/findinfolder
 [fzfinder]: https://github.com/MuratovAS/micro-fzfinder
@@ -174,6 +177,7 @@ Name (Maintained?) | Description | &#10240;&#10240;&#10240;OS&#10240;&#10240;&#1
 [preview]: https://github.com/weebi/micro-preview
 [repfiles]: https://github.com/gaenseklein/repfiles
 [runit]: https://github.com/terokarvinen/micro-run
+[scrollz]: https://github.com/vish9812/micro-scrollz
 [selto]: https://github.com/PawelMTRK/micro-selto-plugin
 [splitterm]: https://github.com/lukhof/splitterm
 [sunny-day-theme]: https://github.com/dwwmmn/micro-sunny-day

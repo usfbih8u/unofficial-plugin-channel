@@ -27,6 +27,8 @@
     "https://raw.githubusercontent.com/usfbih8u/micro-diff-preview/master/repo.json",
     //emacs_select
     "https://raw.githubusercontent.com/kesslern/micro-emacs-select/main/repo.json",
+    //ember
+    "https://raw.githubusercontent.com/vish9812/micro-ember/main/repo.json",
     //filemanager2
     "https://raw.githubusercontent.com/Neko-Box-Coder/filemanager2/main/repo.json",
     //findinfolder
@@ -87,6 +89,8 @@
     "https://raw.githubusercontent.com/gaenseklein/repfiles/main/repo.json",
     //runit
     "https://raw.githubusercontent.com/terokarvinen/micro-run/main/repo.json",
+    //scrollz
+    "https://raw.githubusercontent.com/vish9812/micro-scrollz/main/repo.json",
     //selto
     "https://raw.githubusercontent.com/PawelMTRK/micro-selto-plugin/main/repo.json",
     //splitterm
