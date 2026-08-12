@@ -79,6 +79,8 @@
     "https://raw.githubusercontent.com/Neko-Box-Coder/unofficial-plugin-channel/main/plugins/nelua.json",
     //nix
     "https://raw.githubusercontent.com/vandervoortj/nix-micro-plugin/main/repo.json",
+    //palette
+    "https://raw.githubusercontent.com/vish9812/micro-palette/main/repo.json",
     //palettero
     "https://raw.githubusercontent.com/terokarvinen/palettero/main/repo.json",
     //prettier
