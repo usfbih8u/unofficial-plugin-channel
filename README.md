@@ -99,7 +99,7 @@ Name (Maintained?) | Description | &#10240;&#10240;&#10240;OS&#10240;&#10240;&#1
 | [mxc] (Yes) | The microExecuter. Hit F5 to execute any script from the Micro buffer! | ![Linux] ![macOS] | |
 | [nelua] <br> (No, has issues and last updated 4 years ago) | Nelua support for Micro text editor. | ![Linux] ![Windows] ![macOS] | [nelua_] |
 | [nix] (Yes) | nix-linter plugin and syntax. | ![Linux] ![Windows] ![macOS] | [nix_] |
-| [palette] (Yes) | Searchable palette for micro's help, its options, colorschemes with live preview, open buffers and files. The first character of the query picks which. | ![Linux] ![Windows] ![macOS] | (Optional) [git] or [fd] for the file mode, which needs a POSIX shell |
+| [palette] (Yes) | Searchable palette for micro's help, its options, colorschemes with live preview, open buffers and files. The first character of the query picks which. | ![Linux] ![Windows] ![macOS] | |
 | [palettero] <br> (Yes, but missing version line) | Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions | ![Linux] ![macOS] | [fzf], (Optional) [pythonpy] |
 | [prettier] (Yes) | This plugin provides the ability to format your code with Prettier. | ![Linux] ![Windows] ![macOS] | [prettier_] |
 | [preview] (Yes) | A very simple plugin to preview markdown in a second editor pane using pandoc. | ![Linux] ![Windows] ![macOS] | [pandoc] |
